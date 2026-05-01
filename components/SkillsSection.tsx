@@ -11,7 +11,7 @@ const skillCategories = [
   {
     num: "02",
     title: "Backend",
-    skills: ["Node.js", "MongoDB", "PostgreSQL", "REST API"],
+    skills: ["Node.js", "MongoDB", "PostgreSQL", "REST API", "JWT", "Supabase"],
   },
   {
     num: "03",
